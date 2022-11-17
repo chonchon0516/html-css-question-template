@@ -1,5 +1,4 @@
 .body {
-  margin: 30px;
   background-color: gray;
 }
 
@@ -18,7 +17,6 @@
 }
 .main__topContentText1 {
   margin-right: 100px;
-  margin-bottom: 70px;
 }
 .main__middleContentText1 {
   margin-right: 200px;
