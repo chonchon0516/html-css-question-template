@@ -1,12 +1,8 @@
 .buttonsWrapper {
   display: flex;
-  text-align: center;
-  flex-direction: row;
   flex-wrap: wrap;
-  width: calc(100% / 1);
 }
 
 .button {
-  padding: 0px 0px 0px 20px;
-  width: 390px;
+  padding: 0px 200px;
 }
