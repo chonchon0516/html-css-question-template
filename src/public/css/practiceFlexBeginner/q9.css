@@ -1,9 +1,8 @@
 .buttonsWrapper {
   display: flex;
-  padding-top: 180px;
+  margin-top: 200px;
 }
 
 .button {
   padding: 20px;
-  
 }
