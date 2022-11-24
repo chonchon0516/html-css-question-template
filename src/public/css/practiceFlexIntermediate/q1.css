@@ -1,0 +1,22 @@
+.main {
+  display: flex;
+}
+.topButtonsWrapper {
+  display: flex;
+  flex-flow: column;
+}
+
+.middleButtonsWrapper {
+  display: flex;
+  flex-flow: column;
+}
+
+.bottomButtonsWrapper {
+  display: flex;
+
+  flex-flow: column;
+}
+
+.button {
+  padding: 20px;
+}
