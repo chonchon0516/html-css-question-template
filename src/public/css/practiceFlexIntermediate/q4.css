@@ -1,0 +1,20 @@
+.topButtonsWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.middleButtonsWrapper {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 100px;
+}
+
+.bottomButtonsWrapper {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+}
+
+.button {
+  padding: 20px;
+}
