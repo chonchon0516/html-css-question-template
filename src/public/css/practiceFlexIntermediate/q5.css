@@ -1,0 +1,16 @@
+.topButton {
+  display: flex;
+}
+.buttonWrapper0 {
+  margin-right: 50px;
+}
+.buttonWrapper {
+  margin-bottom: 20px;
+}
+.bottomButtonsWrapper {
+  display: flex;
+}
+
+.button {
+  padding: 20px;
+}
