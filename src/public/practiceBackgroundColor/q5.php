@@ -8,7 +8,6 @@
   <link rel="stylesheet" href="../css/practiceBackgroundColor/q5.css">
   <title>Document</title>
 </head>
-
 <body>
   <main class="main-upper">
     <span class="main__text--white">内容1</span>
