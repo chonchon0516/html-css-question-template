@@ -1,0 +1,7 @@
+.buttonsWrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+.button {
+  padding: 20px;
+}
