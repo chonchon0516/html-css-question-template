@@ -1,0 +1,8 @@
+.buttonsWrapper {
+  display: flex;
+  flex-wrap: wrap-reverse;
+}
+
+.button {
+  padding: 0px 200px;
+}
