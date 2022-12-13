@@ -6,13 +6,13 @@
 .middleButtonsWrapper {
   display: flex;
   justify-content: space-around;
-  padding-top: 100px;
+  margin-top: 100px;
 }
 
 .bottomButtonsWrapper {
   display: flex;
   justify-content: center;
-  padding-top: 50px;
+  margin-top: 50px;
 }
 
 .button {
